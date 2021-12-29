@@ -12,7 +12,11 @@
   },
   "dependencies": {
     "@nuxt/http": "latest",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "express": "latest",
+    "mongoose": "^6.1.4",
     "nuxt": "latest"
   },
   "devDependencies": {
